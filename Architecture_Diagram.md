@@ -445,7 +445,6 @@ This detailed technical architecture shows the specific Azure services and their
 The following diagram illustrates how data flows through the system for key retail operations.
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': {'primaryTextColor':'#000000', 'fontSize':'14px'}}}%%
 sequenceDiagram
     participant C as Customer
     participant CDN as Azure CDN
