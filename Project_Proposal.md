@@ -2,9 +2,8 @@
 ## Project Proposal: FashionGroup Cloud Migration (Updated — as of October 26, 2025)
 
 **Client:** FashionGroup  
-**Industry:** Multinational Fashion Retail Conglomerate  
-**Project Duration:** [To be determined]  
-**Prepared by:** [Your Group Name]  
+**Industry:** Multinational Fashion Retail Conglomerate    
+**Prepared by:** The GDLLG  
 
 ---
 
